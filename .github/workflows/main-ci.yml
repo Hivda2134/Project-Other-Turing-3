@@ -33,7 +33,6 @@ jobs:
       - name: Install dependencies
         run: |
           poetry --version
-          poetry install --no-interaction --no-root
           poetry install --no-interaction
 
       - name: Run tests

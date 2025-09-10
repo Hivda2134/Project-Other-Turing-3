@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "lamutual-project"
+name = "lamutual_project"
 version = "0.1.0"
 description = "Λmutual core with clean CI (Ark launch)"
 authors = ["Amutual Crew <team@example.com>"]
