@@ -26,3 +26,7 @@ htmlcov/
 .DS_Store
 .idea/
 .vscode/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
