@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.log
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Poetry / virtualenv
+.venv/
+poetry.lock
+
+# Test & Coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Tools
+.mypy_cache/
+.tox/
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/
